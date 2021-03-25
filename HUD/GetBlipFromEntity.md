@@ -16,3 +16,5 @@ Returns the Blip handle of given Entity.
 * **entity**: 
 
 ## Return value
+
+0 if blip not exists
