@@ -14,5 +14,5 @@ void SET_ENTITY_ROTATION(Entity entity, float pitch, float roll, float yaw, int 
 * **roll**: 
 * **yaw**: 
 * **rotationOrder**: The order yaw pitch roll are applied, see [`GET_ENTITY_ROTATION`](#_0xAFBD61CC738D9EB9).
-* **p5**: 
+* **alwaysSet**: force rotation set even if preconditions not valid(like falling)
 
